@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["404"],{"8cdb":function(n,t,e){"use strict";e.r(t);var c=e("7a23"),a={class:"mt-5 text-center"};function o(n,t){return Object(c["q"])(),Object(c["d"])("h1",a,"Página no encontrada 🤷‍♂️")}const r={};r.render=o;t["default"]=r}}]);
+//# sourceMappingURL=404.5a4e2fde.js.map
